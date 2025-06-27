@@ -12,6 +12,8 @@
 | and give it the Closure to call when that URI is requested.
 |
 */
+use App\Services\QuizService;
+
 
 $router->get('/', function () use ($router) {
     return $router->app->version();
@@ -64,3 +66,13 @@ $router->get('/users', 'UserController@index');
 $router->options('{any:.*}', function () {
     return response('', 200);
 });
+
+$router->get('/api/quizzes', 'QuizController@index');  // per leggere i quiz
+$router->post('/api/quizzes', 'QuizController@store'); // per aggiungerli
+
+$router->get('/leaderboard', 'ScoreController@leaderboard');
+
+$router->post('/score/update/{id}', 'PunteggioController@aggiorna');
+
+// In routes/web.php o api.php
+$router->get('/api/leaderboard', 'PunteggioController@classifica');

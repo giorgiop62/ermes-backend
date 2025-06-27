@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Quando è nato Ermes?",
+    "option_a": "29 novembre 2017",
+    "option_b": "15 agosto 2016",
+    "option_c": "1 gennaio 2018",
+    "option_d": "20 ottobre 2017",
+    "correct_option": "A"
+  },
+  {
+    "question": "Qual è il nome del cane protagonista?",
+    "option_a": "Zeus",
+    "option_b": "Milo",
+    "option_c": "Ermes",
+    "option_d": "Argo",
+    "correct_option": "C"
+  },
+  {
+    "question": "Di che colore è Ermes?",
+    "option_a": "Beige",
+    "option_b": "Nero",
+    "option_c": "Marrone",
+    "option_d": "Dorato",
+    "correct_option": "B"
+  },
+  {
+    "question": "Che colore hanno gli occhi di Ermes?",
+    "option_a": "Verdi",
+    "option_b": "Azzurri",
+    "option_c": "Marroni",
+    "option_d": "Neri",
+    "correct_option": "C"
+  },
+  {
+    "question": "Di che razza è Ermes?",
+    "option_a": "Golden Retriever",
+    "option_b": "Labrador",
+    "option_c": "Barboncino",
+    "option_d": "Husky",
+    "correct_option": "B"
+  },
+  {
+    "question": "Da dove proviene Ermes?",
+    "option_a": "Firenze",
+    "option_b": "Milano",
+    "option_c": "Bari",
+    "option_d": "Napoli",
+    "correct_option": "D"
+  },
+  {
+    "question": "In quale città non ha mai vissuto Ermes?",
+    "option_a": "Napoli",
+    "option_b": "Milano",
+    "option_c": "Arezzo",
+    "option_d": "Firenze",
+    "correct_option": "B"
+  },
+  {
+    "question": "Qual è il posto preferito di Ermes?",
+    "option_a": "Villa Borghese",
+    "option_b": "Giardini Margherita",
+    "option_c": "Parco Sempione",
+    "option_d": "Lido Mappatella",
+    "correct_option": "D"
+  },
+  {
+    "question": "Chi è stata la prima amica di Ermes?",
+    "option_a": "Tea",
+    "option_b": "Kira",
+    "option_c": "Luna",
+    "option_d": "Stella",
+    "correct_option": "A"
+  },
+  {
+    "question": "Con chi ha vissuto Ermes per 3 mesi?",
+    "option_a": "Max",
+    "option_b": "Toby",
+    "option_c": "Leo",
+    "option_d": "Milo",
+    "correct_option": "C"
+  },
+  {
+    "question": "Con quali gatti ha vissuto Ermes?",
+    "option_a": "Freia e Lucio",
+    "option_b": "Luna e Leo",
+    "option_c": "Pepe e Minù",
+    "option_d": "Gina e Tito",
+    "correct_option": "A"
+  },
+  {
+    "question": "Quale mezzo Ermes non ha mai preso?",
+    "option_a": "Auto",
+    "option_b": "Bus",
+    "option_c": "Aereo",
+    "option_d": "Treno",
+    "correct_option": "C"
+  },
+  {
+    "question": "C'è una persona che Ermes non sopportava?",
+    "option_a": "Il veterinario",
+    "option_b": "No, nessuna",
+    "option_c": "I vicini",
+    "option_d": "Il postino",
+    "correct_option": "B"
+  }
+]
